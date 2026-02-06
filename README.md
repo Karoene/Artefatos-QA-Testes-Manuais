@@ -1,4 +1,4 @@
-# 🧪 PORTFÓLIO QA - TESTES MANUAIS
+# 📂 PROJETO PESSOAL - TESTES MANUAIS
 
 **Autor(a):** Karoene Mendonça
 
@@ -35,12 +35,13 @@ A abordagem de testes escolhida para estudos foi **testes exploratórios** e **t
 * Testes Negativos
 * Testes Exploratórios
 * Testes Funcionais
+* Processos: Planejamento de Teste, Documentação, Execução e Relatório
 
 ---
 
 ## 🌐 Sites Analisados
-* [Nome do Site 1](link-se-houver)
-* XXXXXX
+* [Timeless LumeStack](https://timeless-lumestack.netlify.app/)
+
 
 ---
 
