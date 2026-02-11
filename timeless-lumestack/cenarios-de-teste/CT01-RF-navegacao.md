@@ -1,0 +1,3 @@
+## REQUISITO FUNCIONAL - Navegação e UI Geral
+
+### CENÁRIO DE TESTE
