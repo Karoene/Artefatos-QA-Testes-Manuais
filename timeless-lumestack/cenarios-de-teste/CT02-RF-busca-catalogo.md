@@ -1,7 +1,9 @@
-# 🛒 Funcionalidade: Catálogo e Busca
+## REQUISITO FUNCIONAL - Catálogo e Busca
 
-## Cenário de Teste #01: Exibição de Produtos (UI)
+## Cenário de Teste #01 - Realizar Busca e Explorar Catálogo
 
+
+##### CASO DE TESTE
 | Campo | Descrição |
 | :--- | :--- |
 | **ID** | `CT02-CT01` |
@@ -15,7 +17,8 @@
 
 ---
 
-## Cenário de Teste #02: Filtro de Busca
+##### CASO DE TESTE
+----
 
 | Campo | Descrição |
 | :--- | :--- |
