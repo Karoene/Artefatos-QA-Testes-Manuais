@@ -51,6 +51,8 @@
 
     - Funcionalidades que não serão testadas (**Out-of-Scope**)
         - Não serão testados os requisitos não-funcionais dispostos na documentação.
+        - Requisito funcional 4.1, Performance. Se encaixa em requisito não-funcional.
+        - Requisito funcional 4.1, Responsividade. Se encaixa em requisito não-funcional.
         - Não está no escopo de testes: Testes de integração com sistemas externos.
     
 - ## Ferramentas
